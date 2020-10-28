@@ -1,8 +1,10 @@
 # PortaleVA - Portale delle valutazioni ambientali VAS-VIA
+
 Il nuovo Portale VAS-VIA-AIA rappresenta il punto di accesso unico a tutte le procedure di valutazione e autorizzazione ambientale relative a piani, programmi, progetti e installazioni di competenza statale disciplinate dalla Parte Seconda del decreto legislativo 152/2006.
 
 
-## Descrizione
+# Descrizione
+
 Il portale fornisce informazioni in tempo reale sullo stato di avanzamento delle
 valutazioni ambientali in corso, informazioni amministrative e documenti tecnici
 riguardanti i progetti e i piani/programmi in valutazione, gli atti conclusivi emanati dal
@@ -11,7 +13,7 @@ indicazioni tecniche e modulistica, dati e informazioni sullo stato dell’ambie
 redazione degli studi ambientali.
 
 
-## Note sulla release
+# Struttura del Repository
  
  * docs
    documentazione varia sull'installazione e l'utilizzo del portale delle valutazioni ambientali VAS-VIA.
@@ -20,14 +22,40 @@ redazione degli studi ambientali.
    sorgenti e struttura di cartelle della piattaforma PAT
 
 
-## Requisiti del sistema
+# Requisiti del sistema
 
  * [Internet Information Services (IIS) 7 o maggiore]
  * [Microsoft ASP.NET MVC 4, .net framework 4]
  * [SQLServer 2008 R2 o maggiore]
  
 
-## Licenza
+# Installazione
+
+Per l'installazione fare riferimento al manuale presente in: docs
+
+
+# Stato del Progetto
+
+Realease 1.0 Stabile
+
+
+# Soggetto incaricato del mantenimento del progetto open source:
+
+Invitalia Spa
+
+
+# Indirizzo e-mail a cui inviare segnalazioni di sicurezza:
+
+dmazze@invitalia.it
+
+
+# Detentore del copyright:
+
+Ministero dell'Ambiente e della Tutela del Territorio e del Mare
+
+
+# Licenza
+
 PortaleVA - Portale delle valutazioni ambientali VAS-VIA
 Copyright MATTM Ministero dell'Ambiente e della Tutela del Territorio e del Mare
 
