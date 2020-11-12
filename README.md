@@ -1,11 +1,11 @@
-# PortaleVA - Portale delle valutazioni ambientali VAS-VIA
+# PortaleVA - Portale delle valutazioni ambientali VAS-VIA-AIA
 
-Il nuovo Portale VAS-VIA-AIA rappresenta il punto di accesso unico a tutte le procedure di valutazione e autorizzazione ambientale relative a piani, programmi, progetti e installazioni di competenza statale disciplinate dalla Parte Seconda del decreto legislativo 152/2006.
+Il Portale VAS-VIA-AIA rappresenta il punto di accesso unico a tutte le procedure di valutazione e autorizzazione ambientale relative a piani, programmi, progetti e installazioni di competenza statale disciplinate dalla Parte Seconda del decreto legislativo 152/2006.
 
 
 # Descrizione
 
-Il portale fornisce informazioni in tempo reale sullo stato di avanzamento delle
+Il Portale VAS-VIA-AIA fornisce informazioni in tempo reale sullo stato di avanzamento delle 
 valutazioni ambientali in corso, informazioni amministrative e documenti tecnici
 riguardanti i progetti e i piani/programmi in valutazione, gli atti conclusivi emanati dal
 1989 ad oggi, statistiche e dati di sintesi delle valutazioni concluse, guide operative,
@@ -16,10 +16,10 @@ redazione degli studi ambientali.
 # Struttura del Repository
  
  * docs
-   documentazione varia sull'installazione e l'utilizzo del portale delle valutazioni ambientali VAS-VIA.
+   Documentazione sull'installazione e l'utilizzo del Portale VAS-VIA-AIA
 
  * src
-   sorgenti e struttura di cartelle della piattaforma PAT
+   Sorgenti e struttura di cartelle della piattaforma PAT
 
 
 # Requisiti del sistema
@@ -31,7 +31,7 @@ redazione degli studi ambientali.
 
 # Installazione
 
-Per l'installazione fare riferimento al manuale presente in: docs
+Per l'installazione fare riferimento al manuale presente nella cartella docs
 
 
 # Stato del Progetto
@@ -41,12 +41,12 @@ Realease 1.0 Stabile
 
 # Soggetto incaricato del mantenimento del progetto open source:
 
-Invitalia Spa
+Invitalia S.p.A.
 
 
 # Indirizzo e-mail a cui inviare segnalazioni di sicurezza:
 
-dmazze@invitalia.it
+dmazzei@invitalia.it
 
 
 # Detentore del copyright:
@@ -56,10 +56,10 @@ Ministero dell'Ambiente e della Tutela del Territorio e del Mare
 
 # Licenza
 
-PortaleVA - Portale delle valutazioni ambientali VAS-VIA
-Copyright MATTM Ministero dell'Ambiente e della Tutela del Territorio e del Mare
+Portale VAS-VIA-AIA - Portale delle valutazioni e autorizzazioni ambientali
+Copyright Ministero dell'Ambiente e della Tutela del Territorio e del Mare
 
-Concesso in licenza a norma dell'EUPL(la "Licenza"), versione 1.2;
+Concesso in licenza a norma dell'EUPL (la "Licenza"), versione 1.2;
 
 Non è possibile utilizzare l'opera salvo nel rispetto
 della Licenza.
